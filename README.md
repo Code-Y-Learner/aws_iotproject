@@ -1,3 +1,37 @@
+---
+marp: true
+title: 체르노빌
+theme: gaia
+style: |
+    img[alt~="gif"] {
+        display: inline-block;
+        position: relative;
+        left: 82px;
+        margin-left: 23px;
+        margin-top: 150px;
+    }
+    img[alt~="gif2"] {
+        position: relative;
+        left: 48px;
+        top: 120px
+    }
+    img[alt~="gif3"] {
+        position: relative;
+        left: 530px;
+        top: 40px;
+    }
+    img[alt~="gif4"] {
+        position: relative;
+        left: 430px;
+        top: 140px;
+    }
+    img[alt~="gif5"] {
+        position: relative;
+        left: 650px;
+        top: 130px;
+    }
+---
+
 ![bg](image.png)
 
 ---
